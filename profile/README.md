@@ -1,8 +1,8 @@
-# RoleFit
+# JobCodi
 
-AI 기반 직무 탐색·추천 플랫폼 **롤핏** 개발 조직입니다.
+AI 기반 직무 탐색·추천 플랫폼 **JobCodi** 개발 조직입니다.
 
-롤핏은 사용자의 이력, 성향, 관심사, 우선순위를 분석해 사용자가 지원할 수 있는 직무와 준비 후 도전 가능한 직무를 구분해주는 커리어 추천 서비스입니다.
+JobCodi은 사용자의 이력, 성향, 관심사, 우선순위를 분석해 사용자가 지원할 수 있는 직무와 준비 후 도전 가능한 직무를 구분해주는 커리어 추천 서비스입니다.
 
 ## Repositories
 
@@ -29,7 +29,7 @@ Landing
 → Resume analysis
 → Priority setting
 → Job candidate comparison
-→ RoleFit report
+→ JobCodi report
 ```
 
 ## Development Workflow
@@ -41,7 +41,7 @@ Landing
 
 ## Naming
 
-- Service: 롤핏 / RoleFit
+- Service: JobCodi / JobCodi
 - AI agent: 롤봇
-- Report: 롤핏 리포트
-- Score: 롤핏 스코어
+- Report: JobCodi 리포트
+- Score: JobCodi 스코어
