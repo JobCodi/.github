@@ -1,4 +1,4 @@
-# Rolefit
+# RoleFit
 
 AI 기반 직무 탐색·추천 플랫폼 **롤핏** 개발 조직입니다.
 
@@ -29,7 +29,7 @@ Landing
 → Resume analysis
 → Priority setting
 → Job candidate comparison
-→ Rolefit report
+→ RoleFit report
 ```
 
 ## Development Workflow
@@ -41,7 +41,7 @@ Landing
 
 ## Naming
 
-- Service: 롤핏 / Rolefit
+- Service: 롤핏 / RoleFit
 - AI agent: 롤봇
 - Report: 롤핏 리포트
 - Score: 롤핏 스코어

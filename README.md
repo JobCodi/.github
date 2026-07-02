@@ -1,6 +1,6 @@
 # .github
 
-Organization-wide GitHub configuration for **Rolefit**.
+Organization-wide GitHub configuration for **RoleFit**.
 
 ## What lives here
 
