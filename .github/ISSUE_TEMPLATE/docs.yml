@@ -1,0 +1,26 @@
+name: Docs / 문서 작업
+description: README, API 문서, 기획 문서, 운영 문서 작업을 정의합니다.
+title: "docs: "
+labels: ["type: docs", "status: triage"]
+body:
+  - type: textarea
+    id: scope
+    attributes:
+      label: 문서 범위
+      description: 어떤 문서를 작성/수정하나요?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 참고 자료
+      description: Notion, Figma, Issue, API 스펙 등 관련 링크를 적어주세요.
+  - type: textarea
+    id: done
+    attributes:
+      label: 완료 기준
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true
