@@ -1,6 +1,6 @@
 # .github
 
-Organization-wide GitHub configuration for **RollFit**.
+Organization-wide GitHub configuration for **Rolefit**.
 
 ## What lives here
 
