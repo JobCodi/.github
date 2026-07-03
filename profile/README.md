@@ -1,5 +1,9 @@
 # JobCodi
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JobCodi/.github/main/assets/brand/01_primary_horizontal_logo.png" alt="JobCodi" width="620" />
+</p>
+
 AI 기반 직무 탐색·추천 플랫폼 **JobCodi** 개발 조직입니다.
 
 JobCodi은 사용자의 이력, 성향, 관심사, 우선순위를 분석해 사용자가 지원할 수 있는 직무와 준비 후 도전 가능한 직무를 구분해주는 커리어 추천 서비스입니다.
